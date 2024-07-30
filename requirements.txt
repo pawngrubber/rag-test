@@ -1,0 +1,9 @@
+gradio
+openai
+python-dotenv
+chromadb
+tiktoken
+PyPDF2
+python-docx
+pytest
+reportlab
